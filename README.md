@@ -1,5 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFaw1QPlc3nXg/profile-displaybackgroundimage-shrink_350_1400/0/1706758326991?e=1715817600&v=beta&t=C-jspNaGqJdPaI3FV92Wqs7VFa2B9a4IQ0cLcy1w-FM)
-<h1 align="center">Hi 👋, I'm Manish Kumar Patel</h1>
+<!-- ![MasterHead](https://media.licdn.com/dms/image/D4D16AQFaw1QPlc3nXg/profile-displaybackgroundimage-shrink_350_1400/0/1706758326991?e=1715817600&v=beta&t=C-jspNaGqJdPaI3FV92Wqs7VFa2B9a4IQ0cLcy1w-FM) -->
+<h1 align="center">Hey Buddy, I'm Manish Kumar Patel</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="solar-system" title="Solar System" width="600" src="https://i.ibb.co/sJMcjnR/solar-system-5702-512.gif">
 
